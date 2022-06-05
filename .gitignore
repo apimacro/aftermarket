@@ -1,3 +1,17 @@
+.pass
+*/.pass
+.passport
+*/.passport
+.user
+*/.user
+*/.username
+.idea
+userdata.js
+user.js
+linkedin.png
+*.png
+aftermarket.user.js
+package-lock.json
 # Logs
 logs
 *.log

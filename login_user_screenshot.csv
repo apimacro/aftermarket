@@ -1,0 +1,9 @@
+COMMAND,VALUE
+goto,https://aftermarket.pl/auth/login.html
+focus,input.text.login
+write_from_file,aftermarket.pl/.user
+focus,input.text.password
+write_from_file,aftermarket.pl/.pass
+click,input.mid.button-green-large
+wait_browser,0
+screenshot,screen_login_user.png
